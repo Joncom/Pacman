@@ -1,0 +1,8 @@
+# Licensed ImpactJS Files
+weltmeister.html
+weltmeister/
+impact/
+tools/
+
+# Ignore baked games.
+baked/
